@@ -7,3 +7,4 @@
 3- Adding Task Configuration  
 4- Message converter Configuration  
 5- Sending JMS Messages  
+6- Receiving JMS Messages  
