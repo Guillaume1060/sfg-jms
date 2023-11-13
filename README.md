@@ -8,3 +8,4 @@
 4- Message converter Configuration  
 5- Sending JMS Messages  
 6- Receiving JMS Messages  
+7- Send and Receive of JMS messages    
